@@ -1,0 +1,7 @@
+C:\sources\gb\charp#1\sandbox\Lesson3\Seminar\bin\Debug\Seminar.exe.config
+C:\sources\gb\charp#1\sandbox\Lesson3\Seminar\bin\Debug\Seminar.exe
+C:\sources\gb\charp#1\sandbox\Lesson3\Seminar\bin\Debug\Seminar.pdb
+C:\sources\gb\charp#1\sandbox\Lesson3\Seminar\obj\Debug\Seminar.csproj.AssemblyReference.cache
+C:\sources\gb\charp#1\sandbox\Lesson3\Seminar\obj\Debug\Seminar.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#1\sandbox\Lesson3\Seminar\obj\Debug\Seminar.exe
+C:\sources\gb\charp#1\sandbox\Lesson3\Seminar\obj\Debug\Seminar.pdb
