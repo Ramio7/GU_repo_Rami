@@ -1,0 +1,11 @@
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\obj\Debug\Delegates, files, collections.csproj.AssemblyReference.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\obj\Debug\Delegates, files, collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\obj\Debug\Delegates, files, collections.csproj.CoreCompileInputs.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\bin\Debug\Delegates, files, collections.exe.config
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\bin\Debug\Delegates, files, collections.exe
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\bin\Debug\Delegates, files, collections.pdb
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\bin\Debug\Utility.Classes.dll
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\bin\Debug\Utility.Classes.pdb
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\obj\Debug\Delegates, files, collections.csproj.CopyComplete
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\obj\Debug\Delegates, files, collections.exe
+C:\Users\Dunad\source\repos\GU_repo_Rami\6 урок\Delegates, files, collections\Homework_6\Delegates, files, collections\obj\Debug\Delegates, files, collections.pdb

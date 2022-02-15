@@ -4,3 +4,9 @@ C:\Users\Dunad\Desktop\Программирование\Персональные
 C:\Users\Dunad\Desktop\Программирование\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\obj\Debug\MyClasses.csproj.CoreCompileInputs.cache
 C:\Users\Dunad\Desktop\Программирование\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\obj\Debug\Utility.Classes.dll
 C:\Users\Dunad\Desktop\Программирование\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\obj\Debug\Utility.Classes.pdb
+C:\Users\Dunad\source\repos\GU_repo_Rami\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\obj\Debug\MyClasses.csproj.AssemblyReference.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\obj\Debug\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\bin\Debug\Utility.Classes.dll
+C:\Users\Dunad\source\repos\GU_repo_Rami\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\bin\Debug\Utility.Classes.pdb
+C:\Users\Dunad\source\repos\GU_repo_Rami\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\obj\Debug\Utility.Classes.dll
+C:\Users\Dunad\source\repos\GU_repo_Rami\Персональные библиотеки\Вспомогательная библиотека\Utility.Classes\obj\Debug\Utility.Classes.pdb
