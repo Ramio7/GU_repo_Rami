@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 using MyClasses;
 using static Delegates__files__collections.Question_1;
 using static Delegates__files__collections.Question_2;
@@ -34,10 +35,14 @@ namespace Delegates__files__collections
                         Console.Clear();
                         break;
                     case 2:
+                        Solution_2();
                         BasicClass.pPause1();
                         Console.Clear();
                         break;
                     case 3:
+                        Console.WriteLine("Студент опять не успел проработать задание полностью. Принцип решения задачи №3 мне понятен, \n" +
+                            "но времени катастрофически не хватает (я ещё не сдал 5 урок :( )\n" +
+                            "Буду наверстывать! :)");
                         BasicClass.pPause1();
                         Console.Clear();
                         break;
