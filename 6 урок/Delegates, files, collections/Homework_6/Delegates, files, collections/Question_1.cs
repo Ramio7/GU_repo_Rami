@@ -19,7 +19,7 @@ namespace Delegates__files__collections
             while (x <= b)
             {
                 Console.WriteLine("| {0,8:0.000} | {1,8:0.000} |", x, F(x, y));
-                x += 1;
+                x++;
             }
             Console.WriteLine("---------------------");
         }
@@ -70,10 +70,10 @@ namespace Delegates__files__collections
                         Console.Write("Укажите до какого значения х вычислить таблицу (введите число больше х): ");
                         double multiplier = double.Parse(Console.ReadLine());
 
-                        Table(delegate (double a, double x)
+                        Table(delegate (double x, double a)
                         {
                             return a * Math.Pow(x, 2);
-                        }, fVar, sVar, multiplier);
+                        }, sVar, fVar, multiplier);
                         BasicClass.pPause1();
                         Console.Clear();
                         break;
@@ -87,10 +87,10 @@ namespace Delegates__files__collections
                         Console.Write("Укажите до какого значения х вычислить таблицу (введите число больше х): ");
                         multiplier = double.Parse(Console.ReadLine());
 
-                        Table(delegate (double a, double x)
+                        Table(delegate (double x, double a)
                         {
                             return a * Math.Sin(x / 57.3);
-                        }, fVar, sVar, multiplier);
+                        }, sVar, fVar, multiplier);
                         BasicClass.pPause1();
                         Console.Clear();
                         break;

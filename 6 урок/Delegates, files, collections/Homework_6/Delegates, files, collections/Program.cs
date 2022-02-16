@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MyClasses;
 using static Delegates__files__collections.Question_1;
+using static Delegates__files__collections.Question_2;
 
 //При проектировании решений было принято за умолчание, что пользователь не вводит ложных данных при запросе от программы
 
