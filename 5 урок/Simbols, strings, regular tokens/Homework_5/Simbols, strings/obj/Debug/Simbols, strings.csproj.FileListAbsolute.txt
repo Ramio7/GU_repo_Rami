@@ -1,0 +1,11 @@
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\bin\Debug\Simbols, strings.exe.config
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\bin\Debug\Simbols, strings.exe
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\bin\Debug\Simbols, strings.pdb
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\bin\Debug\Utility.Classes.dll
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\bin\Debug\Utility.Classes.pdb
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\obj\Debug\Simbols, strings.csproj.AssemblyReference.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\obj\Debug\Simbols, strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\obj\Debug\Simbols, strings.csproj.CoreCompileInputs.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\obj\Debug\Simbols, strings.csproj.CopyComplete
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\obj\Debug\Simbols, strings.exe
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Simbols, strings, regular tokens\Homework_5\Simbols, strings\obj\Debug\Simbols, strings.pdb
