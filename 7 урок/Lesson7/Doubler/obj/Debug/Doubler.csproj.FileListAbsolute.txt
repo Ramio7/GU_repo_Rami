@@ -1,0 +1,10 @@
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\bin\Debug\Doubler.exe.config
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\bin\Debug\Doubler.exe
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\bin\Debug\Doubler.pdb
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\obj\Debug\Doubler.csproj.AssemblyReference.cache
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\obj\Debug\Doubler.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\obj\Debug\Doubler.exe
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\obj\Debug\Doubler.pdb
+C:\sources\gb\charp#1\sandbox\Lesson7\Doubler\obj\Debug\Doubler.Main.resources
