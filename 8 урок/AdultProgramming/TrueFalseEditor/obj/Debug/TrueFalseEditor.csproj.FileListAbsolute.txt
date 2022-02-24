@@ -1,0 +1,21 @@
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb

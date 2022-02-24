@@ -1,0 +1,8 @@
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\bin\Debug\Homework_8.exe.config
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\bin\Debug\Homework_8.exe
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\bin\Debug\Homework_8.pdb
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\obj\Debug\Homework_8.csproj.AssemblyReference.cache
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\obj\Debug\Homework_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\obj\Debug\Homework_8.csproj.CoreCompileInputs.cache
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\obj\Debug\Homework_8.exe
+C:\Users\Dunad\Desktop\Программирование\GeekBrains\1 четверть\8 урок\AdultProgramming\Homework_8\obj\Debug\Homework_8.pdb
