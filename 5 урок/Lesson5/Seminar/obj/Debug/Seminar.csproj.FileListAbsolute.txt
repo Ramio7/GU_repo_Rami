@@ -5,3 +5,14 @@ C:\sources\gb\charp#1\sandbox\Lesson5\Seminar\obj\Debug\Seminar.csproj.AssemblyR
 C:\sources\gb\charp#1\sandbox\Lesson5\Seminar\obj\Debug\Seminar.csproj.CoreCompileInputs.cache
 C:\sources\gb\charp#1\sandbox\Lesson5\Seminar\obj\Debug\Seminar.exe
 C:\sources\gb\charp#1\sandbox\Lesson5\Seminar\obj\Debug\Seminar.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\bin\Debug\Seminar.exe.config
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\bin\Debug\Seminar.exe
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\bin\Debug\Seminar.pdb
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\obj\Debug\Seminar.csproj.AssemblyReference.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\obj\Debug\Seminar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\obj\Debug\Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\obj\Debug\Seminar.exe
+C:\Users\Dunad\source\repos\GU_repo_Rami\5 урок\Lesson5\Seminar\obj\Debug\Seminar.pdb
+>>>>>>> main
